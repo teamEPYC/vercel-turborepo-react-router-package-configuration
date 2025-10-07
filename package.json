@@ -1,0 +1,11 @@
+{
+  "name": "vercel-turborepo-react-router-package-configuration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.17.0"
+}
