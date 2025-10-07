@@ -2,6 +2,12 @@
   "$schema": "https://turbo.build/schema.json",
   "extends": ["//"],
   "tasks": {
-    "foo": {}
+    "dev": {
+      "dependsOn": ["db:start"]
+    },
+    "db:start": {
+      "cache": false,
+      "persistent": false
+    }
   }
 }
