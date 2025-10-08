@@ -21,7 +21,8 @@
     "@opentelemetry/sdk-trace-node": "^2.1.0",
     "@langfuse/client": "^4.0.1",
     "@langfuse/otel": "^4.0.1",
-    "@langfuse/tracing": "^4.0.1"
+    "@langfuse/tracing": "^4.0.1",
+    "shared": "workspace:^"
   },
   "devDependencies": {
     "@vercel/react-router": "^1.2.3",

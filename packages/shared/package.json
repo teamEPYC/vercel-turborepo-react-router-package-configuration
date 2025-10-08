@@ -1,0 +1,11 @@
+{
+  "name": "shared",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.17.0",
+  "exports": {
+    ".": "./index.ts"
+  }
+}

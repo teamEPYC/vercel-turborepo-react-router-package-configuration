@@ -1,8 +1,9 @@
 packages:
   - apps/**
+  - packages/**
 
 onlyBuiltDependencies:
-  - '@tailwindcss/oxide'
+  - "@tailwindcss/oxide"
   - esbuild
   - protobufjs
   - supabase
